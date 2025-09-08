@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdryannofc%2FAdryannofc&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-
+  <br>
+  <br>
+  <br>
   <a href="https://codepen.io/Adryann-Felix" target="_blank"><img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"></a>
   <a href="https://stackoverflow.com/users/30551107/adryann-felix" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"></a>
   <a href="https://www.linkedin.com/in/adryann-felix-7a3b4925b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
@@ -10,11 +11,6 @@
   <a href="https://leetcode.com/u/ADRYANNofc" target="_blank"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
 </div>
 <br>
-<div>
-👋 Olá! Eu sou Adryan, um desenvolvedor e entusiasta de tecnologia.
-
-Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes!
-</div>
 <br>
 
 ## 🛠️ Skills
