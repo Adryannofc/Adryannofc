@@ -36,7 +36,7 @@ Estou sempre buscando aprender coisas novas e contribuir para projetos interessa
 <br>
 <hr>
 
-| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=161b22) | ![Streak de Adryannofc](https://github-readme-streak-stats.herokuapp.com/?user=Adryannofc&theme=tokyonight&bg_color=161b22) |
+| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0D1117) | ![Streak de Adryannofc](https://github-readme-streak-stats.herokuapp.com/?user=Adryannofc&theme=dark&bg_color=0D1117) |
 | --- | --- |
 
 <hr>
