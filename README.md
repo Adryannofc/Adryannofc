@@ -34,7 +34,7 @@
 
    <!-- Coluna das Estatísticas -->
    <td style="width: 40%;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical" style="width: 100%; max-width: 300px;" />
    </td>
   </tr>
 </table>
