@@ -41,4 +41,8 @@ Estou sempre buscando aprender coisas novas e contribuir para projetos interessa
 
 <hr>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Adryannofc/Adryannofc/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
