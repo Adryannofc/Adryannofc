@@ -13,7 +13,7 @@
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
-<br>
+
 
 ## 🛠️ Skills
 <table style="border-collapse: collapse; width: 100%;">
