@@ -10,15 +10,12 @@
   <a href="https://twitter.com/SEU-TWITTER"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
 </div>
 <br>
-
 <div>
 👋 Olá! Eu sou Adryan, um desenvolvedor e entusiasta de tecnologia.
 
 Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes!
 </div>
-
 <br>
-
 # 🛠️ Skills
 
 | Categoria      | Skills                                                                                                                                                                                                                          |
