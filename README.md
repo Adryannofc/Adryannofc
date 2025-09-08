@@ -16,7 +16,7 @@
 <br>
 
 ## 🛠️ Skills
-<table align="center">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Coluna da Tabela de Skills -->
     <td style="width: 60%;">
