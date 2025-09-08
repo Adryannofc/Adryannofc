@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <!-- Coluna da Tabela de Skills -->
-    <td>
+    <td style="width: 60%;">
 
 | Categoria      | Skills                                                                                                                                                                                                                          |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@
    </td>
 
    <!-- Coluna das Estatísticas -->
-   <td>
+   <td style="width: 40%;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical" />
    </td>
   </tr>
