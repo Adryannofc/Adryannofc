@@ -9,6 +9,9 @@
   <a href="http://SEU-PORTFOLIO.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
   <a href="adryannofc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://leetcode.com/u/ADRYANNofc" target="_blank"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
+  <br>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 <br>
 
@@ -28,15 +31,16 @@
   </div>
 <div>
 
-<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </details>                     
-<br>
 <hr>
 
-| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=Adryannofc&theme=dark&hide_border=true) |
-| --- | --- |
-
+| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=Adryannofc&theme=dark&hide_border=true) | 
+| --- | --- | 
 <hr>
+
+
+
 
 <!-- Snake Game Repo View -->
 
