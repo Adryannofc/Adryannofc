@@ -2,12 +2,12 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdryannofc%2FAdryannofc&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
 
-  <a href="https://twitter.com/SEU-TWITTER"><img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"></a>
-  <a href="https://twitter.com/SEU-TWITTER"><img src="https://img.shields.io/badge/-Stackoverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
+  <a href="https://codepen.io/Adryann-Felix"><img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"></a>
+  <a href="https://stackoverflow.com/users/30551107/adryann-felix"><img src="https://img.shields.io/badge/-Stackoverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"></a>
+  <a href="https://www.linkedin.com/in/adryann-felix-7a3b4925b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
   <a href="http://SEU-PORTFOLIO.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
-  <a href="mailto:SEU-EMAIL@email.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/SEU-TWITTER"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
+  <a href="adryannofc@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://leetcode.com/u/ADRYANNofc"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
 </div>
 <br>
 <div>
