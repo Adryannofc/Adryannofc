@@ -33,7 +33,7 @@
 <br>
 <hr>
 
-| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0D1117) | ![Streak de Adryannofc](https://github-readme-streak-stats.herokuapp.com/?user=Adryannofc&theme=dark&bg_color=0D1117) |
+| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=Adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=Adryannofc&theme=dark&hide_border=true) |
 | --- | --- |
 
 <hr>
