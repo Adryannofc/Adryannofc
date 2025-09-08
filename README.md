@@ -16,7 +16,11 @@
 Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes!
 </div>
 <br>
-# 🛠️ Skills
+
+## 🛠️ Skills
+
+<div align="center">
+  <div>
 
 | Categoria      | Skills                                                                                                                                                                                                                          |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +30,8 @@ Estou sempre buscando aprender coisas novas e contribuir para projetos interessa
 | Services & Tools | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> |
 | Operating System | <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
 | Learning | <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
-
+  </div>
+<div>
 
 <br>
 </details>                     
@@ -43,3 +48,5 @@ Estou sempre buscando aprender coisas novas e contribuir para projetos interessa
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
