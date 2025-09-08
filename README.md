@@ -11,6 +11,7 @@
   <a href="https://leetcode.com/u/ADRYANNofc" target="_blank"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
   <br>
   <br>
+  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
