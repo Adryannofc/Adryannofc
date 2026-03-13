@@ -26,7 +26,6 @@
 <br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
----
 <div align="center">
 
 | Categoria | Skills |
