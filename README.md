@@ -1,10 +1,5 @@
 
 <div align="center">
-  <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Adryann+Felix;Estudante+de+ADS+%7C+UniAmerica;Java+%7C+Spring+Boot+%7C+Git+Flow;Tech+Lead+%7C+DeliveryApp" />
-  </a>
-</div>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdryannofc%2FAdryannofc&label=VISITORS&labelColor=%23d5d5d5&countColor=%23151515" />
   <br>
   <br>
@@ -22,6 +17,11 @@
 </div>
 <table>
 <tr>
+   <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Adryann+Felix;University+ADS+%7C+UniAmerica;Java+%7C+Spring+Boot+%7C+Backend" />
+  </a>
+</div>
 <td valign="top" width="100%" align="center">
 
 | Categoria        | Skills |
