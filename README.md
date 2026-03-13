@@ -33,11 +33,6 @@
 | Forums         | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 </td>
-<td valign="middle" width="40%" align="center">
-
-<img width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&cache_seconds=1800"/>
-
-</td>
 </tr>
 </table>
 
@@ -45,7 +40,7 @@
 </details>                     
 <hr>
 
-| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true) |
+| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | <img width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800"/> | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true) |
 | --- | --- | --- |
 <hr>
 
