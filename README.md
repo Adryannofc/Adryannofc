@@ -34,7 +34,7 @@
 </td>
 <td valign="middle" width="40%" align="center">
 
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&cache_seconds=1800"/>
+<img width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&cache_seconds=1800"/>
 
 </td>
 </tr>
