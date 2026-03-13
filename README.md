@@ -32,9 +32,9 @@
 | Learning         | <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/> |
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&cache_seconds=1800"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&cache_seconds=1800"/>
 
 </td>
 </tr>
