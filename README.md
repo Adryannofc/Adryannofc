@@ -45,8 +45,8 @@
 </details>                     
 <hr>
 
-| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true) | 
-| --- | --- | 
+| ![Estatísticas de Adryannofc](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800) | ![Streak de Adryannofc](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true) |
+| --- | --- | --- |
 <hr>
 
 <picture align="center">
