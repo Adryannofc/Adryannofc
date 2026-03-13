@@ -1,14 +1,15 @@
 <div align="center">
+  
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdryannofc%2FAdryannofc&label=VISITORS&labelColor=%23d5d5d5&countColor=%23151515" />
   <br>
   <br>
   <br>
-  <a href="https://codepen.io/Adryann-Felix" target="_blank"><img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"></a>
   <a href="https://stackoverflow.com/users/30551107/adryann-felix" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"></a>
+  <a href="mailto:adryannofc@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://leetcode.com/u/ADRYANNofc" target="_blank"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
+  <a href="https://codepen.io/Adryann-Felix" target="_blank"><img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209"></a>
   <a href="https://www.linkedin.com/in/adryann-felix-7a3b4925b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
   <a href="http://SEU-PORTFOLIO.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
-  <a href="adryannofc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://leetcode.com/u/ADRYANNofc" target="_blank"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"></a>
   <br>
   <br>
   <br>
@@ -16,11 +17,14 @@
 </div>
 
 
-## 🛠️ Skills
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Adryann+Felix;Estudante+de+ADS+%7C+UniAmerica;Java+%7C+Spring+Boot+%7C+Git+Flow;Tech+Lead+%7C+DeliveryApp" />
+  </a>
+</div>
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="100%" align="center">
 
 | Categoria        | Skills |
 |------------------|--------|
