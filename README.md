@@ -34,9 +34,6 @@
 </div>
 
 ---
-
-## 🛠️ Skills
-
 <div align="center">
 
 | Categoria | Skills |
@@ -52,9 +49,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=adryannofc&rank_icon=percentile&show_icons=true&theme=dark&bg_color=151515&hide_border=true) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryannofc&theme=dark&hide_border=true&layout=donut-vertical&cache_seconds=1800" width="150"/> | ![Streak](https://nirzak-streak-stats.vercel.app/?user=adryannofc&theme=dark&hide_border=true) |
