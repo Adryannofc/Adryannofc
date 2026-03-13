@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%7C+UniAmerica+Descomplica;Backend+Developer+%7C+Java+%26+Spring+Boot;Tech+Lead+%7C+DeliveryApp+Project;Aprendendo+um+commit+de+cada+vez..." />
-</a>
-
 <br/>
 <a href="https://stackoverflow.com/users/30551107/adryann-felix" target="_blank">
   <img src="https://img.shields.io/badge/StackOverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"/>
