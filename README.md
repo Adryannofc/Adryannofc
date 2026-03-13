@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=130&section=header&text=Adryann%20Felix&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Adryann%20Felix&fontSize=42&fontColor=0D1117&animation=fadeIn&fontAlignY=55"/>
 
 <div align="center">
 
@@ -9,9 +9,6 @@
 <br/>
 
 ---
-
-### 🌐 Conecte-se comigo
-
 <a href="https://stackoverflow.com/users/30551107/adryann-felix" target="_blank">
   <img src="https://img.shields.io/badge/StackOverflow-d5d5d5?style=for-the-badge&logo=stack-overflow&logoColor=0A0209"/>
 </a>
